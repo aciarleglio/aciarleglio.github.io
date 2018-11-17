@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<meta charset="utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="pandoc" />
+
+
+
+
+<title></title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/spacelab.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.0.13/css/fa-svg-with-js.css" rel="stylesheet" />
+<script src="site_libs/font-awesome-5.0.13/js/fontawesome-all.min.js"></script>
+<script src="site_libs/font-awesome-5.0.13/js/fa-v4-shims.min.js"></script>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+</head>
+
+<body>
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+  height: auto;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 52px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 57px;
+  margin-top: -57px;
+}
+
+.section h2 {
+  padding-top: 57px;
+  margin-top: -57px;
+}
+.section h3 {
+  padding-top: 57px;
+  margin-top: -57px;
+}
+.section h4 {
+  padding-top: 57px;
+  margin-top: -57px;
+}
+.section h5 {
+  padding-top: 57px;
+  margin-top: -57px;
+}
+.section h6 {
+  padding-top: 57px;
+  margin-top: -57px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+
+<div class="container-fluid main-container">
+
+<!-- tabsets -->
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+</script>
+
+<!-- code folding -->
+
+
+
+
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+  padding-left: 25px;
+  text-indent: 0;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Adam Ciarleglio</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="publications.html">Publications</a>
+</li>
+<li>
+  <a href="talks.html">Talks</a>
+</li>
+<li>
+  <a href="programming.html">Programming</a>
+</li>
+<li>
+  <a href="teaching.html">Teaching</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="https://scholar.google.com/citations?user=vt3EmsoAAAAJ&amp;hl=en&amp;oi=ao">
+    <span class="fa fa-graduation-cap fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="http://github.com/aciarleglio">
+    <span class="fa fa-github fa-lg"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://www.linkedin.com/in/adam-ciarleglio-a35baaa/">
+    <span class="fa fa-linkedin fa-lg"></span>
+     
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+
+</div>
+
+
+<p><link rel="stylesheet" href="styles.css" type="text/css"></p>
+<div id="section" class="section level2">
+<h2>2018</h2>
+<ul>
+<li><p>Golub, J., Brewster, K., Brickman, A., Kim, A., Luchsinger, J., <strong>Ciarleglio, A.</strong>, Rutherford, B. Audiometric age-related hearing loss is assocaited with depressive symptoms in Hispanics. <em>JAMA Otolaryngology-Head &amp; Neck Surgery</em>. (2018) (<em>in press</em>).</p></li>
+<li><p><strong>Ciarleglio, A.</strong>, Brucato, G., Masucci, M., Altschuler, R., Appelbaum, P., Colibazzi, T., Corcoran, C., Crump, F., Horga, G., Lehembre-Shiah, E., Leong, W., Schobel, S., Wall, M., Yang, L., Lieberman, J., Girgis, R. A predictive model for conversion to psychosis in clinical high-risk patients. <em>Psychological Medicine</em>. (2018) (<em>in press</em>). [<a href="https://www.cambridge.org/core/journals/psychological-medicine/article/predictive-model-for-conversion-to-psychosis-in-clinical-highrisk-patients/C5E4C0022112C4EA619C2A8F0A826E72">Link</a> | <a href="https://www.ncbi.nlm.nih.gov/pubmed/29950184">PubMed</a>] [<a href="https://www.jwatch.org/na47133/2018/07/31/practical-tool-predict-progression-psychotic-disorder">Comment in NEJM Journal Watch Psychiatry</a>]</p></li>
+<li><p>Devanand, D. P., Doraiswamy, P., <strong>Ciarleglio, A.</strong>, Scodes, J., D’Antonio, K., Clovacco, M., Andrews, H., Pelton, G. Donepezil treatment in patients with depression and cognitive impairment on stable antidepressant treatment: A randomized contolled trial. <em>The American Journal of Geriatric Psychiatry</em>. (2018) (<em>in press</em>). [<a href="https://www.ajgponline.org/article/S1064-7481(18)30333-6/abstract">Link</a> | <a href="https://www.ncbi.nlm.nih.gov/pubmed/30037778">PubMed</a>]</p></li>
+<li><p>Brewster, K., <strong>Ciarleglio, A.</strong>, Chen, C., Brown, P., Rutherford, B. Age-related hearing loss and its association with depression in later life. <em>The American Journal of Geriatric Psychiatry</em>. (2018) 26 (7): 788 - 796. [<a href="https://www.sciencedirect.com/science/article/pii/S1064748118302975">Link</a> | <a href="https://www.ncbi.nlm.nih.gov/pubmed/29752060">PubMed</a>]</p></li>
+<li><p><strong>Ciarleglio, A.</strong>, Petkova, E., Tarpey, T., Ogden, R. T. Constructing treatment decision rules based on scalar and functional predictors when moderators of treatment effect are unknown. <em>Journal of the Royal Statistical Society: Series C</em>. (2018) (<em>in press</em>). [<a href="https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssc.12278">Link</a>]</p></li>
+<li><p>Girgis, R., <strong>Ciarleglio, A.</strong>, Choo, T., Haynes, G., Bathon, J., Cremers, S., Kantrowitz, J., Lieberman, J., Brown, A. A randomized, double-blind, placebo-controlled clinical trial of tocilizumab, an interleukin-6 receptor antibody, for residual symptoms in schizophrenia. <em>Neuropsychopharmacology</em>. (2018) 43: 1317–1323. [<a href="https://www.nature.com/articles/npp2017258">Link</a> | <a href="https://www.ncbi.nlm.nih.gov/pubmed/29090685">PubMed</a>]</p></li>
+<li><p>Baroni, A., Bruzzeze, J. M., Di Bartolo, C., <strong>Ciarleglio, A.</strong>, Shatkin, J. P. Impact of a sleep course on sleep, mood and anxiety in college students: A pilot study. <em>Journal of American College Health</em>. (2018) 66 (1): 41 - 50. [<a href="https://www.tandfonline.com/doi/full/10.1080/07448481.2017.1369091">Link</a> | <a href="https://www.ncbi.nlm.nih.gov/pubmed/28820661">PubMed</a>]</p></li>
+</ul>
+</div>
+<div id="section-1" class="section level2">
+<h2>2017</h2>
+<ul>
+<li><p>Devanand, D. P., Lentz, C., Chunga, E., Schofield, P., <strong>Ciarleglio, A.</strong>, Scodes, J., Andrews, H., Stern, Y., Huey T. E., Bell, K., Pelton, G. Change in odor identification impairment is associated with improvement with cholinesterase inhibitor treatment in mild cognitive impairment. <em>Journal of Alzheimer’s Disease</em>. (2017) 60 (4): 1525 - 1531. [<a href="https://content.iospress.com/articles/journal-of-alzheimers-disease/jad170497">Link</a> | <a href="https://www.ncbi.nlm.nih.gov/pubmed/29081417">PubMed</a>]</p></li>
+<li><p>Kerner, N., Roose, S., Pelton, G., <strong>Ciarleglio, A.</strong>, Scodes, J., Lentz, C., Sneed, J., Devanand, D. Association of obstructive sleep apnea with episodic memory and cerebral microvascular pathology: A preliminary study. <em>American Journal of Geriatric Psychiatry</em>. (2017) 25 (3): 316 - 325. [<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5316492/">Link</a> | <a href="https://www.ncbi.nlm.nih.gov/pubmed/28040430">PubMed</a>]</p></li>
+<li><p>Petkova, E., Ogden, R. T., Tarpey, T., <strong>Ciarleglio, A.</strong>, Jiang, B., Su, Z., Carmody, T., Adams, P., Kraemer, H. C., Grannemann, B., Oquendo, M., Parsey, R., Weissman, M., D., McGrath,P. J., Fava, M., Trivedi, M. H. Statistical Analysis Plan for Stage 1 EMBARC (Establishing Moderators and Biosignatures of Antidepressant Response for Clinical Care) Study. <em>Contemporary Clinical Trials Communications</em>. (2017) 6: 22 - 30. [<a href="https://www.sciencedirect.com/science/article/pii/S2451865416300412?via%3Dihub">Link</a> | <a href="https://www.ncbi.nlm.nih.gov/pubmed/28670629">PubMed</a>]</p></li>
+<li><p>Zandieh, S., Cespedes, A., <strong>Ciarleglio, A.</strong>, Bourgeois, W., Soetikno, T. R., Bruzzeze, J. M. Subjective sleep disordered breathing and asthma in young urban adolescents. <em>Journal of Asthma</em>. (2017) 54 (1): 62 - 68. [<a href="https://www.tandfonline.com/doi/full/10.1080/02770903.2016.1188942">Link</a> | <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5613663/">PubMed</a>]</p></li>
+</ul>
+</div>
+<div id="section-2" class="section level2">
+<h2>2016</h2>
+<ul>
+<li><p><strong>Ciarleglio, A.</strong>, Petkova, E., Tarpey, T., Ogden, R. T. Flexible functional regression methods for estimating individualized treatment regimes. <em>Stat</em>. (2016) 5: 185 - 199. [<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/sta4.114">Link</a> | <a href="https://www.ncbi.nlm.nih.gov/pubmed/28845233">PubMed</a>]</p></li>
+<li><p>Bruno, D., <strong>Ciarleglio, A.</strong>, Grothe, M., Nierenberg, J., Bachman, A., Teipel, S., Petkova, E., Ardekani, B., Pomara, N. Hippocampal volume and integrity as predictors of cognitive decline in intact elderly. <em>Neuroreport</em>. (2016) 27 (11): 869 - 879. [<a href="https://journals.lww.com/neuroreport/Fulltext/2016/08010/Hippocampal_volume_and_integrity_as_predictors_of.13.aspx">Link</a> | <a href="https://www.ncbi.nlm.nih.gov/pubmed/27306593">PubMed</a>]</p></li>
+<li><p><strong>Ciarleglio, A.</strong>, Ogden, R. T. Wavelet-based scalar-on-function finite mixture regression models. <em>Computational Statistics &amp; Data Analysis</em>. (2016) 93: 86 - 96. [<a href="https://www.sciencedirect.com/science/article/pii/S0167947314003454">Link</a> | <a href="https://www.ncbi.nlm.nih.gov/pubmed/26512156">PubMed</a>]</p></li>
+<li><p>Anderson, B., <strong>Ciarleglio, A.</strong>, Cohen, D., Lai, W., Pasquali, S., Neidell, M., Hall, M., Glied, S., Bacha, E. The Norwood operation: Relative effects of surgeon and institutional volumes on outcomes and resource utilization. <em>Cardiology in the Young</em>. (2016) 26: 683 - 692. [<a href="https://www.cambridge.org/core/journals/cardiology-in-the-young/article/norwood-operation-relative-effects-of-surgeon-and-institutional-volumes-on-outcomes-and-resource-utilization/EB5E8E160C9315EC5AE79D78D368E865">Link</a> | <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4713384/">PubMed</a>]</p></li>
+</ul>
+</div>
+<div id="section-3" class="section level2">
+<h2>2015</h2>
+<ul>
+<li><p><strong>Ciarleglio, A.</strong>, Petkova, E., Ogden, R. T, Tarpey, T. Treatment decisions based on scalar and functional baseline covariates. <em>Biometrics</em>. (2015) 71 (4): 884 - 894. [<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.12346">Link</a> | <a href="https://www.ncbi.nlm.nih.gov/pubmed/26111145">PubMed</a>]</p></li>
+<li><p>Blumberg, D., Dale, E., Cioffi, G., Radcliffe, N., Pham, M., Pensec, N., Al-Aswad, L., Reynolds, M., <strong>Ciarleglio, A.</strong> Discrimination of glaucoma patients from healthy individuals using combined parameters from spectral domain optical coherence tomography in an African American population. <em>Journal of Glaucoma</em>. (2015) 25: e196 - e203. [<a href="https://journals.lww.com/glaucomajournal/Fulltext/2016/03000/Discrimination_of_Glaucoma_Patients_From_Healthy.29.aspx">Link</a> | <a href="https://www.ncbi.nlm.nih.gov/pubmed/26066503">PubMed</a>]</p></li>
+<li><p>Anderson, B., <strong>Ciarleglio, A.</strong>, Glied, S., Bacha, E. Neonatal hypoplastic left heart syndrome: Effects of bloodstream infections on outcomes and costs for children undergoing the Norwood operation. <em>The Annals of Thoracic Surgery</em>. (2015) 99 (5): 1648 - 1654. [<a href="https://www.annalsthoracicsurgery.org/article/S0003-4975(15)00150-2/fulltext?code=ats-site">Link</a> | <a href="https://www.ncbi.nlm.nih.gov/pubmed/25827672">PubMed</a>]</p></li>
+</ul>
+</div>
+<div id="section-4" class="section level2">
+<h2>2014</h2>
+<ul>
+<li><p>Anderson, B., <strong>Ciarleglio, A.</strong>, Torres, A., Salavitabar, A., Bacha, E. Earlier stage 1 palliation is associated with better clinical outcomes and lower costs for neonates with hypoplastic left heart syndrome. <em>The Journal of Thoracic and Cardiovascular Surgery</em>. (2014) 149 (1): 205 - 210. [<a href="https://www.sciencedirect.com/science/article/pii/S0022522314010757?via%3Dihub">Link</a> | <a href="https://www.ncbi.nlm.nih.gov/pubmed/25227701">PubMed</a>]</p></li>
+<li><p>Anderson, B., <strong>Ciarleglio, A.</strong>, Hayes, D., Friedman, R., Bacha, E. Earlier arterial switch operation improves outcomes and reduces costs for neonates with transposition of the great arteries. <em>Journal of the American College of Cardiology</em>. (2014) 63 (5): 481 - 487. [<a href="https://www.sciencedirect.com/science/article/pii/S0735109713057276?via%3Dihub">Link</a> | <a href="https://www.ncbi.nlm.nih.gov/pubmed/24184243">PubMed</a>]</p></li>
+</ul>
+</div>
+<div id="section-5" class="section level2">
+<h2>2013</h2>
+<ul>
+<li><p>Rao, R., Gavazzi, E., Al-Aswad, L., <strong>Ciarleglio, A.</strong>, Cioffi, J., Blumberg, D. Optic nerve head differences between Caribbean black and African American patients. <em>Journal of Glaucoma</em>. (2013) 24: e43 - e46. [<a href="https://journals.lww.com/glaucomajournal/Fulltext/2015/06000/Optic_Nerve_Head_and_Retinal_Nerve_Fiber_Layer.13.aspx">Link</a> | <a href="https://www.ncbi.nlm.nih.gov/pubmed/24145287">PubMed</a>]</p></li>
+<li><p>Lan, M., Hasselgrave, N., <strong>Ciarleglio, A.</strong>, Ogden, R. T., Mann, J. J., Parsey, R. V. Higher 5-HT1A Receptor binding potential in depressed bipolar disorder patients predicts treatment remission: Preliminary data from a naturalistic study. <em>Synapse</em>. (2013) 67 (11): 773 - 778. [<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/syn.21684">Link</a> | <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3809836/">PubMed</a>]</p></li>
+</ul>
+</div>
+
+<br><br>
+<footer>
+    <p class="copyright text-muted" align="center">Copyright &copy; 2018 Adam Ciarleglio</p>
+</footer>
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

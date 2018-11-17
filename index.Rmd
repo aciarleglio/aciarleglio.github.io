@@ -1,0 +1,25 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<img src="images/ac1.jpg" style="width:28%; border:10px solid; margin-right: 20px" align="left">
+
+##### About 
+I am an Assistant Professor of Biostatistics in the Department of Epidemiology and Biostatistics at the [Milken Institute School of Public Health](https://publichealth.gwu.edu) at [The George Washington University](https://www.gwu.edu).  I am broadly interested in integrating functional data analysis,  machine learning, and treatment regime estimation methods to address questions in public health and medical research, especially those related to mental health.   
+
+I received a BA in mathematics from [Vanderbilt University](https://www.vanderbilt.edu) in 2005, a MS in mathematics from [Fairfield University](https://www.fairfield.edu) in 2007, and a PhD in Biostatistics from [Columbia University](https://www.columbia.edu) in 2013.  I completed a postdoctoral research fellowship in the Division of Biostatistics in the [Department of Child and Adolescent Psychiatry](https://med.nyu.edu/child-adolescent-psychiatry/) at the [New York University School of Medicine](https://med.nyu.edu) in 2016.  Prior to joining GWU, I was a faculty member in the [Division of Mental Health Data Science](https://www.columbiapsychiatry.org/mental-health-data-science) at the [New York State Psychiatric Insitute](https://nyspi.org) and [Department of Biostatistics](https://www.mailman.columbia.edu/become-student/departments/biostatistics) at the [Mailman School of Public Health](https://www.mailman.columbia.edu) at Columbia University.
+
+<br>
+  
+##### Contact Information
+Adam Ciarleglio \
+Milken Institute School of Public Health \
+The George Washington University \   
+950 New Hampshire Avenue NW, 5th Floor \   
+Washington, DC 20052 \  
+\  
+
+Email: aciarleglio@gwu.edu
+
+

@@ -1,0 +1,64 @@
+---
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+## 2018
+
+* Golub, J., Brewster, K., Brickman, A., Kim, A., Luchsinger, J., **Ciarleglio, A.**, Rutherford, B. Audiometric age-related hearing loss is assocaited with depressive symptoms in Hispanics.  *JAMA Otolaryngology-Head \& Neck Surgery*. (2018) (*in press*).  
+
+* **Ciarleglio, A.**, Brucato, G., Masucci, M.,  Altschuler, R., Appelbaum, P., Colibazzi, T., Corcoran, C., Crump, F., Horga, G., Lehembre-Shiah, E., Leong, W., Schobel, S., Wall, M., Yang, L., Lieberman, J., Girgis, R. A predictive model for conversion to psychosis in clinical high-risk patients. *Psychological Medicine*. (2018) (*in press*).  [[Link](https://www.cambridge.org/core/journals/psychological-medicine/article/predictive-model-for-conversion-to-psychosis-in-clinical-highrisk-patients/C5E4C0022112C4EA619C2A8F0A826E72) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29950184)] [[Comment in NEJM Journal Watch Psychiatry](https://www.jwatch.org/na47133/2018/07/31/practical-tool-predict-progression-psychotic-disorder)]  
+
+* Devanand, D. P., Doraiswamy, P., **Ciarleglio, A.**,  Scodes, J., D'Antonio, K., Clovacco, M., Andrews, H., Pelton, G.  Donepezil treatment in patients with depression and cognitive impairment on stable antidepressant treatment: A randomized contolled trial.  *The American Journal of Geriatric Psychiatry*. (2018) (*in press*). [[Link](https://www.ajgponline.org/article/S1064-7481(18)30333-6/abstract) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/30037778)]
+
+* Brewster, K., **Ciarleglio, A.**, Chen, C., Brown, P., Rutherford, B. Age-related hearing loss and its association with depression in later life. *The American Journal of Geriatric Psychiatry*. (2018) 26 (7): 788 - 796. [[Link](https://www.sciencedirect.com/science/article/pii/S1064748118302975) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29752060)]
+
+* **Ciarleglio, A.**, Petkova, E., Tarpey, T., Ogden, R.\ T. Constructing treatment decision rules based on scalar and functional predictors when moderators of treatment effect are unknown. *Journal of the Royal Statistical Society: Series C*. (2018) (*in press*). [[Link](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssc.12278)]
+
+* Girgis, R., **Ciarleglio, A.**, Choo, T., Haynes, G., Bathon, J., Cremers, S., Kantrowitz, J., Lieberman, J., Brown, A. A randomized, double-blind, placebo-controlled clinical trial of tocilizumab, an interleukin-6 receptor antibody, for residual symptoms in schizophrenia.  *Neuropsychopharmacology*. (2018) 43: 1317–1323. [[Link](https://www.nature.com/articles/npp2017258) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29090685)]
+
+* Baroni, A., Bruzzeze, J. M., Di Bartolo, C., **Ciarleglio, A.**, Shatkin, J. P.  Impact of a sleep course on sleep, mood and anxiety in college students: A pilot study.  *Journal of American College Health*. (2018) 66 (1): 41 - 50. [[Link](https://www.tandfonline.com/doi/full/10.1080/07448481.2017.1369091) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28820661)]
+
+## 2017
+
+* Devanand, D. P., Lentz, C., Chunga, E., Schofield, P., **Ciarleglio, A.**,  Scodes, J., Andrews, H., Stern, Y., Huey T. E., Bell, K., Pelton, G.  Change in odor identification impairment is associated with improvement with cholinesterase inhibitor treatment in mild cognitive impairment.  *Journal of Alzheimer's Disease*. (2017) 60 (4): 1525 - 1531. [[Link](https://content.iospress.com/articles/journal-of-alzheimers-disease/jad170497) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29081417)]
+
+* Kerner, N., Roose, S., Pelton, G., **Ciarleglio, A.**, Scodes, J., Lentz, C., Sneed, J., Devanand, D. Association of obstructive sleep apnea with episodic memory and cerebral microvascular pathology: A preliminary study. *American Journal of Geriatric Psychiatry*. (2017) 25 (3): 316 - 325. [[Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5316492/) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28040430)]
+
+* Petkova, E.,  Ogden, R. T.,  Tarpey, T., **Ciarleglio, A.**, Jiang, B., Su, Z., Carmody, T., Adams, P., Kraemer, H. C., Grannemann, B., Oquendo, M., Parsey, R., Weissman, M., D., McGrath,P. J., Fava, M., Trivedi, M. H.  Statistical Analysis Plan for Stage 1 EMBARC (Establishing Moderators and Biosignatures of Antidepressant Response for Clinical Care) Study.  *Contemporary Clinical Trials Communications*. (2017) 6: 22 - 30. [[Link](https://www.sciencedirect.com/science/article/pii/S2451865416300412?via%3Dihub) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28670629)]  
+
+* Zandieh, S., Cespedes, A.,  **Ciarleglio, A.**, Bourgeois, W., Soetikno, T. R.,  Bruzzeze, J. M.  Subjective sleep disordered breathing and asthma in young urban adolescents. *Journal of Asthma*. (2017) 54 (1): 62 - 68. [[Link](https://www.tandfonline.com/doi/full/10.1080/02770903.2016.1188942) | [PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5613663/)]
+
+## 2016
+
+* **Ciarleglio, A.**, Petkova, E., Tarpey, T., Ogden, R. T. Flexible functional regression methods for estimating individualized treatment regimes. *Stat*. (2016) 5: 185 - 199. [[Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/sta4.114) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/28845233)]
+
+* Bruno, D., **Ciarleglio, A.**, Grothe, M., Nierenberg, J., Bachman, A., Teipel, S., Petkova, E., Ardekani, B., Pomara, N. Hippocampal volume and integrity as predictors of cognitive decline in intact elderly. *Neuroreport*. (2016) 27 (11): 869 - 879. [[Link](https://journals.lww.com/neuroreport/Fulltext/2016/08010/Hippocampal_volume_and_integrity_as_predictors_of.13.aspx) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/27306593)]  
+
+* **Ciarleglio, A.**, Ogden, R. T. Wavelet-based scalar-on-function finite mixture regression models. *Computational Statistics \& Data Analysis*.  (2016) 93: 86 - 96. [[Link](https://www.sciencedirect.com/science/article/pii/S0167947314003454) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/26512156)] 
+
+* Anderson, B., **Ciarleglio, A.**, Cohen, D., Lai, W., Pasquali, S., Neidell, M., Hall, M., Glied, S., Bacha, E.  The Norwood operation: Relative effects of surgeon and institutional volumes on outcomes and resource utilization. *Cardiology in the Young*. (2016) 26: 683 - 692. [[Link](https://www.cambridge.org/core/journals/cardiology-in-the-young/article/norwood-operation-relative-effects-of-surgeon-and-institutional-volumes-on-outcomes-and-resource-utilization/EB5E8E160C9315EC5AE79D78D368E865) | [PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4713384/)]
+
+## 2015
+
+* **Ciarleglio, A.**, Petkova, E., Ogden, R. T, Tarpey, T. Treatment decisions based on scalar and functional baseline covariates. *Biometrics*. (2015) 71 (4): 884 - 894. [[Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.12346) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/26111145)]
+
+*  Blumberg, D., Dale, E., Cioffi, G., Radcliffe, N., Pham, M., Pensec, N., Al-Aswad, L., Reynolds, M., **Ciarleglio, A.** Discrimination of glaucoma patients from healthy individuals using combined parameters from spectral domain optical coherence tomography in an African American population. *Journal of Glaucoma*. (2015) 25: e196 - e203. [[Link](https://journals.lww.com/glaucomajournal/Fulltext/2016/03000/Discrimination_of_Glaucoma_Patients_From_Healthy.29.aspx) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/26066503)]  
+
+* Anderson, B., **Ciarleglio, A.**, Glied, S., Bacha, E.  Neonatal hypoplastic left heart syndrome:  Effects of bloodstream infections on outcomes and costs for children undergoing the Norwood operation.  *The Annals of Thoracic Surgery*. (2015) 99 (5): 1648 - 1654. [[Link](https://www.annalsthoracicsurgery.org/article/S0003-4975(15)00150-2/fulltext?code=ats-site) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/25827672)]
+
+## 2014
+
+* Anderson, B., **Ciarleglio, A.**, Torres, A., Salavitabar, A., Bacha, E.  Earlier stage 1 palliation is associated with better clinical outcomes and lower costs for neonates with hypoplastic left heart syndrome.  *The Journal of Thoracic and Cardiovascular Surgery*. (2014) 149 (1): 205 - 210. [[Link](https://www.sciencedirect.com/science/article/pii/S0022522314010757?via%3Dihub) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/25227701)]
+
+* Anderson, B., **Ciarleglio, A.**, Hayes, D.,  Friedman, R., Bacha, E.  Earlier arterial switch operation improves outcomes and reduces costs for neonates with transposition of the great arteries. *Journal of the American College of Cardiology*. (2014) 63 (5): 481 - 487. [[Link](https://www.sciencedirect.com/science/article/pii/S0735109713057276?via%3Dihub) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/24184243)]
+
+## 2013
+
+* Rao, R., Gavazzi, E., Al-Aswad, L.,  **Ciarleglio, A.**, Cioffi, J., Blumberg, D.  Optic nerve head differences between Caribbean black and African American patients. *Journal of Glaucoma*. (2013) 24: e43 - e46. [[Link](https://journals.lww.com/glaucomajournal/Fulltext/2015/06000/Optic_Nerve_Head_and_Retinal_Nerve_Fiber_Layer.13.aspx) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/24145287)]
+
+* Lan, M., Hasselgrave, N., **Ciarleglio, A.**, Ogden, R. T., Mann, J. J., Parsey, R. V.  Higher 5-HT1A Receptor binding potential in depressed bipolar disorder patients predicts treatment remission: Preliminary data from a naturalistic study.  *Synapse*.  (2013) 67 (11): 773 - 778. [[Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/syn.21684) | [PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3809836/)]

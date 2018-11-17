@@ -1,0 +1,27 @@
+name: "Adam Ciarleglio"
+output_dir: "."
+navbar:
+  title: "Adam Ciarleglio"
+  left:
+    - text: "Publications"
+      href: publications.html
+    - text: "Talks"
+      href: talks.html
+    - text: "Programming"
+      href: programming.html
+    - text: "Teaching"
+      href: teaching.html
+  right:
+    - icon: ai-google-scholar-square ai-lg  
+      href: https://scholar.google.com/citations?user=vt3EmsoAAAAJ&hl=en&oi=ao
+    - icon: fa-github fa-lg
+      href: http://github.com/aciarleglio
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/adam-ciarleglio-a35baaa/
+output:
+  html_document:
+    theme: spacelab
+    include:
+      in_header: ga.html
+      after_body: footer.html
+    css: 'styles.css'

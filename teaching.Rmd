@@ -1,0 +1,29 @@
+---
+output: html_document
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+## Current Courses
+* Summer 2018: P6104 Introduction to Biostatistical Methods (@ Columbia) 
+
+<br>
+
+## Past Courses
+* Fall 2017: P6031 Research Methods and Applications (@ Columbia) 
+* Fall 2016: P6104 Introduction to Biostatistical Methods (@ Columbia) 
+* Summer 2016: P8120 Analysis of Categorical Data (@ Columbia) 
+* Fall 2015: P6103 Introduction to Biostatistics Executive Format (@ Columbia) 
+* Fall 2015: P6104 Introduction to Biostatistical Methods (@ Columbia) 
+* Summer 2015: P8120 Analysis of Categorical Data (@ Columbia) 
+* Fall 2014: P6103 Introduction to Biostatistics Executive Format (@ Columbia) 
+* Fall 2014: P6104 Introduction to Biostatistical Methods (@ Columbia)   
+* Summer 2014: P8120 Analysis of Categorical Data (@ Columbia) 
+* Fall 2013: P6103 Introduction to Biostatistics Executive Format (@ Columbia) 
+* Summer 2013: P8120 Analysis of Categorical Data (@ Columbia) 
+* Summer 2012: P8120 Analysis of Categorical Data (@ Columbia) 
+* Summer 2011: BEST Program Introduction to Statistical Computing in R (@ Columbia)  
+* Summer 2011: P8120 Analysis of Categorical Data (@ Columbia) 
+* Summer 2010: P6103 Introduction to Biostatistics (@ Columbia) 
+* Summer 2010: BEST Program Introduction to Biostatistics (@ Columbia)  
+* Summer 2009: P6103 Introduction to Biostatistics(@ Columbia) 
