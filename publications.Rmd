@@ -7,13 +7,14 @@ output:
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
+## 2019
+
+* **Ciarleglio, A.**, Brucato, G., Masucci, M.,  Altschuler, R., Appelbaum, P., Colibazzi, T., Corcoran, C., Crump, F., Horga, G., Lehembre-Shiah, E., Leong, W., Schobel, S., Wall, M., Yang, L., Lieberman, J., Girgis, R. A predictive model for conversion to psychosis in clinical high-risk patients. *Psychological Medicine*. (2018) (*in press*).  [[Link](https://www.cambridge.org/core/journals/psychological-medicine/article/predictive-model-for-conversion-to-psychosis-in-clinical-highrisk-patients/C5E4C0022112C4EA619C2A8F0A826E72) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29950184)] [[Comment in NEJM Journal Watch Psychiatry](https://www.jwatch.org/na47133/2018/07/31/practical-tool-predict-progression-psychotic-disorder)] 
+* Golub, J., Brewster, K., Brickman, A., Kim, A., Luchsinger, J., **Ciarleglio, A.**, Rutherford, B.  Audiometric age-related hearing loss is associated with depressive symptoms in hispanics. *JAMA Otolaryngology-Head & Neck Surgery*. (2019) 145 (2): 132 - 139. [[Link](https://doi.org/10.1001/jamaoto.2018.3270) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/30520955)]
+
 ## 2018
 
-* Golub, J., Brewster, K., Brickman, A., Kim, A., Luchsinger, J., **Ciarleglio, A.**, Rutherford, B. Audiometric age-related hearing loss is assocaited with depressive symptoms in Hispanics.  *JAMA Otolaryngology-Head \& Neck Surgery*. (2018) (*in press*).  
-
-* **Ciarleglio, A.**, Brucato, G., Masucci, M.,  Altschuler, R., Appelbaum, P., Colibazzi, T., Corcoran, C., Crump, F., Horga, G., Lehembre-Shiah, E., Leong, W., Schobel, S., Wall, M., Yang, L., Lieberman, J., Girgis, R. A predictive model for conversion to psychosis in clinical high-risk patients. *Psychological Medicine*. (2018) (*in press*).  [[Link](https://www.cambridge.org/core/journals/psychological-medicine/article/predictive-model-for-conversion-to-psychosis-in-clinical-highrisk-patients/C5E4C0022112C4EA619C2A8F0A826E72) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29950184)] [[Comment in NEJM Journal Watch Psychiatry](https://www.jwatch.org/na47133/2018/07/31/practical-tool-predict-progression-psychotic-disorder)]  
-
-* Devanand, D. P., Doraiswamy, P., **Ciarleglio, A.**,  Scodes, J., D'Antonio, K., Clovacco, M., Andrews, H., Pelton, G.  Donepezil treatment in patients with depression and cognitive impairment on stable antidepressant treatment: A randomized contolled trial.  *The American Journal of Geriatric Psychiatry*. (2018) (*in press*). [[Link](https://www.ajgponline.org/article/S1064-7481(18)30333-6/abstract) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/30037778)]
+* Devanand, D. P., Doraiswamy, P., **Ciarleglio, A.**,  Scodes, J., D'Antonio, K., Clovacco, M., Andrews, H., Pelton, G.  Donepezil treatment in patients with depression and cognitive impairment on stable antidepressant treatment: A randomized contolled trial.  *The American Journal of Geriatric Psychiatry*. (2018) 26 (10): 1050 - 1060. [[Link](https://www.ajgponline.org/article/S1064-7481(18)30333-6/abstract) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/30037778)]
 
 * Brewster, K., **Ciarleglio, A.**, Chen, C., Brown, P., Rutherford, B. Age-related hearing loss and its association with depression in later life. *The American Journal of Geriatric Psychiatry*. (2018) 26 (7): 788 - 796. [[Link](https://www.sciencedirect.com/science/article/pii/S1064748118302975) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29752060)]
 
