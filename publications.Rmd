@@ -9,6 +9,14 @@ output:
 
 ## 2019
 
+* Gianattasio, K., **Ciarleglio, A.**, Power, M.  Algorithmic identification of dementia for use in disparities research in the nationally-representative Health and Retirement Study. *Epidemiology*. (2019) (in press). 
+
+* Kegeles, L., **Ciarleglio, A.**, Leon-Ortiz, P., Reyes-Madrigal, F., Lieberman, J. A.,  Brucato, G., Girgis, R., de la Fuente-Sandoval, C. An imaging-based risk calculator for prediction of conversion to psychosis in clinical high-risk individuals using glutamate 1H MRS. *Schizophrenia Research*.  (2019) (in press). [[Link](https://www.sciencedirect.com/science/article/abs/pii/S092099641930413X) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31522867)]
+
+* Golub, J., **Ciarleglio, A.**, Schupf, N., Brickman, A., Luchsinger, J.  Audiometric age-related hearing loss and cognition in the Hispanic Community Health Study. *Journal of Gerontology: Medical Sciences*. (2019) (in press). [[Link](https://academic.oup.com/biomedgerontology/advance-article-abstract/doi/10.1093/gerona/glz119/5513489?redirectedFrom=fulltext) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31183502)]
+
+* Brown, P., Brennan, N., **Ciarleglio, A.**, Chen, C., Montes Garcia, C., Gomez, S., Roose, S., Rutherford, B., Simonsick, E., Spencer, R., Ferrucci, L. Declining skeletal muscle mitochondrial function associated with increased risk of depression in later life. *The American Journal of Geriatric Psychiatry*. (2019) 27 (9): 963 - 971. [[Link](https://www.ajgponline.org/article/S1064-7481(19)30333-1/fulltext) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31104966)]
+
 * **Ciarleglio, A.**, Brucato, G., Masucci, M.,  Altschuler, R., Appelbaum, P., Colibazzi, T., Corcoran, C., Crump, F., Horga, G., Lehembre-Shiah, E., Leong, W., Schobel, S., Wall, M., Yang, L., Lieberman, J., Girgis, R. A predictive model for conversion to psychosis in clinical high-risk patients. *Psychological Medicine*. (2018) (*in press*).  [[Link](https://www.cambridge.org/core/journals/psychological-medicine/article/predictive-model-for-conversion-to-psychosis-in-clinical-highrisk-patients/C5E4C0022112C4EA619C2A8F0A826E72) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29950184)] [[Comment in NEJM Journal Watch Psychiatry](https://www.jwatch.org/na47133/2018/07/31/practical-tool-predict-progression-psychotic-disorder)] 
 * Golub, J., Brewster, K., Brickman, A., Kim, A., Luchsinger, J., **Ciarleglio, A.**, Rutherford, B.  Audiometric age-related hearing loss is associated with depressive symptoms in hispanics. *JAMA Otolaryngology-Head & Neck Surgery*. (2019) 145 (2): 132 - 139. [[Link](https://doi.org/10.1001/jamaoto.2018.3270) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/30520955)]
 
