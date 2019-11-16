@@ -5,11 +5,13 @@ output: html_document
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 ## Current Courses
-* Summer 2018: P6104 Introduction to Biostatistical Methods (@ Columbia) 
+* Fall 2019: PubH6002 Biostatistical Applications for Public Health (@ GWU) 
 
 <br>
 
 ## Past Courses
+* Spring 2019: PubH6002 Biostatistical Applications for Public Health (@ GWU) 
+* Summer 2018: P6104 Introduction to Biostatistical Methods (@ Columbia) 
 * Fall 2017: P6031 Research Methods and Applications (@ Columbia) 
 * Fall 2016: P6104 Introduction to Biostatistical Methods (@ Columbia) 
 * Summer 2016: P8120 Analysis of Categorical Data (@ Columbia) 
@@ -26,4 +28,4 @@ output: html_document
 * Summer 2011: P8120 Analysis of Categorical Data (@ Columbia) 
 * Summer 2010: P6103 Introduction to Biostatistics (@ Columbia) 
 * Summer 2010: BEST Program Introduction to Biostatistics (@ Columbia)  
-* Summer 2009: P6103 Introduction to Biostatistics(@ Columbia) 
+* Summer 2009: P6103 Introduction to Biostatistics (@ Columbia) 
