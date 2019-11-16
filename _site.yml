@@ -12,7 +12,7 @@ navbar:
     - text: "Teaching"
       href: teaching.html
   right:
-    - icon: fa-google-scholar-lg  
+    - icon: ai-google-scholar-square ai-lg  
       href: https://scholar.google.com/citations?user=izuZ3cwAAAAJ&hl=en&oi=ao
     - icon: fa-github fa-lg
       href: http://github.com/aciarleglio
