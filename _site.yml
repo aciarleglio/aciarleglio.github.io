@@ -23,5 +23,4 @@ output:
     theme: spacelab
     include:
       in_header: ga.html
-      
     css: 'styles.css'
