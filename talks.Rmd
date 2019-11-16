@@ -2,6 +2,6 @@
 output: html_document
 ---
 
-Coming soon! 
+Coming soon!
 
 <link rel="stylesheet" href="styles.css" type="text/css">
