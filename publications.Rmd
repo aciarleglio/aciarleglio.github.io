@@ -5,8 +5,6 @@ output:
     toc_float: true
 ---
 
-<link rel="stylesheet" href="styles.css" type="text/css">
-
 ## 2019
 
 * Gianattasio, K., **Ciarleglio, A.**, Power, M.  Algorithmic identification of dementia for use in disparities research in the nationally-representative Health and Retirement Study. *Epidemiology*. (2019) (in press). 
@@ -72,3 +70,5 @@ output:
 * Rao, R., Gavazzi, E., Al-Aswad, L.,  **Ciarleglio, A.**, Cioffi, J., Blumberg, D.  Optic nerve head differences between Caribbean black and African American patients. *Journal of Glaucoma*. (2013) 24: e43 - e46. [[Link](https://journals.lww.com/glaucomajournal/Fulltext/2015/06000/Optic_Nerve_Head_and_Retinal_Nerve_Fiber_Layer.13.aspx) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/24145287)]
 
 * Lan, M., Hasselgrave, N., **Ciarleglio, A.**, Ogden, R. T., Mann, J. J., Parsey, R. V.  Higher 5-HT1A Receptor binding potential in depressed bipolar disorder patients predicts treatment remission: Preliminary data from a naturalistic study.  *Synapse*.  (2013) 67 (11): 773 - 778. [[Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/syn.21684) | [PubMed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3809836/)]
+
+<link rel="stylesheet" href="styles.css" type="text/css">

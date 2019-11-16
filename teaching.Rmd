@@ -2,8 +2,6 @@
 output: html_document
 ---
 
-<link rel="stylesheet" href="styles.css" type="text/css">
-
 ## Current Courses
 * Fall 2019: PubH6002 Biostatistical Applications for Public Health (@ GWU) 
 
@@ -29,3 +27,6 @@ output: html_document
 * Summer 2010: P6103 Introduction to Biostatistics (@ Columbia) 
 * Summer 2010: BEST Program Introduction to Biostatistics (@ Columbia)  
 * Summer 2009: P6103 Introduction to Biostatistics (@ Columbia) 
+
+
+<link rel="stylesheet" href="styles.css" type="text/css">

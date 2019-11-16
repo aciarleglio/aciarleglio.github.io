@@ -1,8 +1,6 @@
 ---
 ---
 
-<link rel="stylesheet" href="styles.css" type="text/css">
-
 <img src="images/ac1.jpg" style="width:28%; border:10px solid; margin-right: 20px" align="left">
 
 ##### About 
@@ -22,4 +20,4 @@ Washington, DC 20052 \
 
 Email: aciarleglio@gwu.edu
 
-
+<link rel="stylesheet" href="styles.css" type="text/css">
