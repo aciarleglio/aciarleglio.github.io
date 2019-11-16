@@ -12,10 +12,10 @@ navbar:
     - text: "Teaching"
       href: teaching.html
   right:
-    - icon: ai-google-scholar-square ai-lg  
-      href: https://scholar.google.com/citations?user=izuZ3cwAAAAJ&hl=en&oi=ao
     - icon: fa-github fa-lg
       href: http://github.com/aciarleglio
+    - icon: ai-google-scholar-square ai-lg  
+      href: https://scholar.google.com/citations?user=izuZ3cwAAAAJ&hl=en&oi=ao
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/adam-ciarleglio-a35baaa/
 output:
@@ -23,4 +23,5 @@ output:
     theme: spacelab
     include:
       in_header: ga.html
+      after_body: footer.html
     css: 'styles.css'
