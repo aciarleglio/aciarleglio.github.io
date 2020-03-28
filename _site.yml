@@ -14,7 +14,7 @@ navbar:
   right:
     - icon: fa-github fa-lg
       href: http://github.com/aciarleglio
-    - icon: fa-google # ai-google-scholar-square ai-lg  
+    - icon: fa-graduation-cap fa-lg # ai-GoogleScholar ai-lg # ai-google-scholar-square ai-lg  
       href: https://scholar.google.com/citations?user=izuZ3cwAAAAJ&hl=en&oi=ao
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/adam-ciarleglio-a35baaa/
