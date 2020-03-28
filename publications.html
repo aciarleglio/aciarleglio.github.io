@@ -19,9 +19,6 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
-<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
-<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
-<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -269,13 +266,6 @@ $(document).ready(function () {
   gtag('config', 'UA-129396520-1');
 </script>
 
-<br><br>
-<footer>
-    <p class="copyright text-muted" align="center">Copyright &copy; 2018 Adam Ciarleglio</p>
-</footer>
-
-
-
 </div>
 
 <script>
@@ -448,101 +438,6 @@ $(document).ready(function () {
 
 
 
-<script>
-$(document).ready(function ()  {
-
-    // move toc-ignore selectors from section div to header
-    $('div.section.toc-ignore')
-        .removeClass('toc-ignore')
-        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
-
-    // establish options
-    var options = {
-      selectors: "h1,h2,h3",
-      theme: "bootstrap3",
-      context: '.toc-content',
-      hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
-      },
-      ignoreSelector: ".toc-ignore",
-      scrollTo: 0
-    };
-    options.showAndHide = true;
-    options.smoothScroll = true;
-
-    // tocify
-    var toc = $("#TOC").tocify(options).data("toc-tocify");
-});
-</script>
-
-<style type="text/css">
-
-#TOC {
-  margin: 25px 0px 20px 0px;
-}
-@media (max-width: 768px) {
-#TOC {
-  position: relative;
-  width: 100%;
-}
-}
-
-
-.toc-content {
-  padding-left: 30px;
-  padding-right: 40px;
-}
-
-div.main-container {
-  max-width: 1200px;
-}
-
-div.tocify {
-  width: 20%;
-  max-width: 260px;
-  max-height: 85%;
-}
-
-@media (min-width: 768px) and (max-width: 991px) {
-  div.tocify {
-    width: 25%;
-  }
-}
-
-@media (max-width: 767px) {
-  div.tocify {
-    width: 100%;
-    max-width: none;
-  }
-}
-
-.tocify ul, .tocify li {
-  line-height: 20px;
-}
-
-.tocify-subheader .tocify-item {
-  font-size: 0.90em;
-  padding-left: 25px;
-  text-indent: 0;
-}
-
-.tocify .list-group-item {
-  border-radius: 0px;
-}
-
-
-</style>
-
-<!-- setup 3col/9col grid for toc_float and main content  -->
-<div class="row-fluid">
-<div class="col-xs-12 col-sm-4 col-md-3">
-<div id="TOC" class="tocify">
-</div>
-</div>
-
-<div class="toc-content col-xs-12 col-sm-8 col-md-9">
-
-
 
 
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
@@ -609,7 +504,7 @@ div.tocify {
 <li><p>Kegeles, L., <strong>Ciarleglio, A.</strong>, Leon-Ortiz, P., Reyes-Madrigal, F., Lieberman, J. A., Brucato, G., Girgis, R., de la Fuente-Sandoval, C. An imaging-based risk calculator for prediction of conversion to psychosis in clinical high-risk individuals using glutamate 1H MRS. <em>Schizophrenia Research</em>. (2020) (in press). [<a href="https://www.sciencedirect.com/science/article/abs/pii/S092099641930413X">Link</a> | <a href="https://www.ncbi.nlm.nih.gov/pubmed/31522867">PubMed</a>]</p></li>
 <li><p>Golub, J., Schupf, N., <strong>Ciarleglio, A.</strong>, Brickman, A., Luchsinger, J. Audiometric age-related hearing loss and cognition in the Hispanic Community Health Study. <em>Journal of Gerontology: Biological Sciences &amp; Medical Sciences</em>. (2020) 75(3): 552 - 560. [<a href="https://academic.oup.com/biomedgerontology/advance-article-abstract/doi/10.1093/gerona/glz119/5513489?redirectedFrom=fulltext">Link</a> | <a href="https://www.ncbi.nlm.nih.gov/pubmed/31183502">PubMed</a>]</p></li>
 <li><p>Golub, J., Brickman, A., <strong>Ciarleglio, A.</strong>, Schupf, N., Luchsinger, J. Association of subclinical hearing loss with cognitive performance. <em>JAMA Otolaryngology – Head &amp; Neck Surgery</em>. (2020) 146(1): 57 - 67. [<a href="https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2755646">Link</a> | <a href="https://www.ncbi.nlm.nih.gov/pubmed/31725853">PubMed</a>]</p></li>
-<li><p>Brown, P., Brennan, N., <strong>Ciarleglio, A.</strong>, Chen, C., Montes Garcia, C., Gomez, S., Roose, S., Rutherford, B., Simonsick, E., Spencer, R., Ferrucci, L. Frailty and its correlates in adults with late life depression. <em>The American Journal of Geriatric Psychiatry</em>}*. (2020) 28(2): 145 - 154. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S1064748119305305?via%3Dihub">Link</a> | <a href="https://www.ncbi.nlm.nih.gov/pubmed/31734083">PubMed</a>]</p></li>
+<li><p>Brown, P., Brennan, N., <strong>Ciarleglio, A.</strong>, Chen, C., Montes Garcia, C., Gomez, S., Roose, S., Rutherford, B., Simonsick, E., Spencer, R., Ferrucci, L. Frailty and its correlates in adults with late life depression. <em>The American Journal of Geriatric Psychiatry</em>. (2020) 28(2): 145 - 154. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S1064748119305305?via%3Dihub">Link</a> | <a href="https://www.ncbi.nlm.nih.gov/pubmed/31734083">PubMed</a>]</p></li>
 <li><p>Petkova E., Park, H., <strong>Ciarleglio, A.</strong>, Ogden, R. T., Tarpey, T. Optimizing treatment decision rules through generated effect modifiers: A precision medicine tutorial. <em>British Journal of Psychiatry Open</em>. (2020) 6(1) E2. [<a href="https://www.cambridge.org/core/journals/bjpsych-open/article/optimising-treatment-decision-rules-through-generated-effect-modifiers-a-precision-medicine-tutorial/DE085374C40752EA21CC908E9AB180FF">Link</a> | <a href="https://www.ncbi.nlm.nih.gov/pubmed/31791433">PubMed</a>]</p></li>
 <li><p>Gianattasio, K., <strong>Ciarleglio, A.</strong>, Power, M. Development of algorithmic dementia ascertainment for racial/ethnic disparities research in the U.S. Health and Retirement Study. <em>Epidemiology</em>. (2020) 31(1): 126 - 133. [<a href="https://journals.lww.com/epidem/Abstract/2020/01000/Development_of_Algorithmic_Dementia_Ascertainment.14.aspx">Link</a> | <a href="https://pubmed.ncbi.nlm.nih.gov/31567393/?from_single_result=Development+of+algorithmic+dementia+ascertainment+for+racial%2Fethnic+disparities+research+in+the+U.S.+Health+and+Retirement+Study">PubMed</a>]</p></li>
 </ul>
@@ -677,12 +572,10 @@ div.tocify {
 
 <br><br>
 <footer>
-    <p class="copyright text-muted" align="center">Copyright &copy; 2018 Adam Ciarleglio</p>
+    <p class="copyright text-muted" align="center">Copyright &copy; 2020 Adam Ciarleglio</p>
 </footer>
 
 
-</div>
-</div>
 
 </div>
 
