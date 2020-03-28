@@ -3,11 +3,12 @@ output: html_document
 ---
 
 ## Current Courses
-* Fall 2019: PubH6002 Biostatistical Applications for Public Health (@ GWU) 
 
 <br>
 
 ## Past Courses
+* Spring 2019: PubH6002 Biostatistical Applications for Public Health (@ GWU)
+* Fall 2019: PubH6002 Biostatistical Applications for Public Health (@ GWU)
 * Spring 2019: PubH6002 Biostatistical Applications for Public Health (@ GWU) 
 * Summer 2018: P6104 Introduction to Biostatistical Methods (@ Columbia) 
 * Fall 2017: P6031 Research Methods and Applications (@ Columbia) 

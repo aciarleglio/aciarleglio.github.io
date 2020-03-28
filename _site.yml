@@ -18,6 +18,7 @@ navbar:
       href: https://scholar.google.com/citations?user=izuZ3cwAAAAJ&hl=en&oi=ao
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/adam-ciarleglio-a35baaa/
+
 output:
   html_document:
     theme: spacelab
