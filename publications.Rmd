@@ -37,7 +37,7 @@ output:
 
 * Brewster, K., **Ciarleglio, A.**, Chen, C., Brown, P., Rutherford, B. Age-related hearing loss and its association with depression in later life. *The American Journal of Geriatric Psychiatry*. (2018) 26 (7): 788 - 796. [[Link](https://www.sciencedirect.com/science/article/pii/S1064748118302975) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29752060)]
 
-* **Ciarleglio, A.**, Petkova, E., Tarpey, T., Ogden, R.\ T. Constructing treatment decision rules based on scalar and functional predictors when moderators of treatment effect are unknown. *Journal of the Royal Statistical Society: Series C*. (2018) (*in press*). [[Link](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssc.12278)]
+* **Ciarleglio, A.**, Petkova, E., Tarpey, T., Ogden, R.\ T. Constructing treatment decision rules based on scalar and functional predictors when moderators of treatment effect are unknown. *Journal of the Royal Statistical Society: Series C*. (2018) 67 (5): 1331 - 1356.  [[Link](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssc.12278) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/30546161)]
 
 * Girgis, R., **Ciarleglio, A.**, Choo, T., Haynes, G., Bathon, J., Cremers, S., Kantrowitz, J., Lieberman, J., Brown, A. A randomized, double-blind, placebo-controlled clinical trial of tocilizumab, an interleukin-6 receptor antibody, for residual symptoms in schizophrenia.  *Neuropsychopharmacology*. (2018) 43: 1317–1323. [[Link](https://www.nature.com/articles/npp2017258) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29090685)]
 
