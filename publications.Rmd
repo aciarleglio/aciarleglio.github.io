@@ -5,13 +5,25 @@ output:
     toc_float: true
 ---
 
+## 2020
+
+* Golub, J., Brewster, K., Brickman, A., **Ciarleglio, A.**, Rutherford, B., Luchsinger, J.  Subclinical hearing loss is associated with depressive symptoms. *The American Journal of Geriatric Psychiatry*. (2020) (in press). [[Link](https://www.ajgponline.org/article/S1064-7481(19)30588-3/fulltext) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31980375)]
+
+* Kegeles, L., **Ciarleglio, A.**, Leon-Ortiz, P., Reyes-Madrigal, F., Lieberman, J. A.,  Brucato, G., Girgis, R., de la Fuente-Sandoval, C. An imaging-based risk calculator for prediction of conversion to psychosis in clinical high-risk individuals using glutamate 1H MRS. *Schizophrenia Research*.  (2020) (in press). [[Link](https://www.sciencedirect.com/science/article/abs/pii/S092099641930413X) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31522867)]
+
+* Golub, J., Schupf, N., **Ciarleglio, A.**, Brickman, A., Luchsinger, J.  Audiometric age-related hearing loss and cognition in the Hispanic Community Health Study. *Journal of Gerontology: Biological Sciences \& Medical Sciences*. (2020) 75(3): 552 - 560. [[Link](https://academic.oup.com/biomedgerontology/advance-article-abstract/doi/10.1093/gerona/glz119/5513489?redirectedFrom=fulltext) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31183502)]
+
+* Golub, J., Brickman, A., **Ciarleglio, A.**, Schupf, N., Luchsinger, J. Association of subclinical hearing loss with cognitive performance. *JAMA Otolaryngology – Head \& Neck Surgery*. (2020) 146(1): 57 - 67. [[Link](https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2755646) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31725853)]
+
+* Brown, P., Brennan, N., **Ciarleglio, A.**, Chen, C.,  Montes Garcia, C., Gomez, S., Roose, S., Rutherford, B., Simonsick, E., Spencer, R., Ferrucci, L. Frailty and its correlates in adults with late life depression.  *The American Journal of Geriatric Psychiatry*}*. (2020) 28(2): 145 - 154. [[Link](https://www.sciencedirect.com/science/article/abs/pii/S1064748119305305?via%3Dihub) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31734083)]
+
+* Petkova E., Park, H., **Ciarleglio, A.**, Ogden, R. T., Tarpey, T. Optimizing treatment decision rules through generated effect modifiers: A precision medicine tutorial. *British Journal of Psychiatry Open*. (2020) 6(1) E2. [[Link](https://www.cambridge.org/core/journals/bjpsych-open/article/optimising-treatment-decision-rules-through-generated-effect-modifiers-a-precision-medicine-tutorial/DE085374C40752EA21CC908E9AB180FF) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31791433)]
+
+* Gianattasio, K., **Ciarleglio, A.**, Power, M.  Development of algorithmic dementia ascertainment for racial/ethnic disparities research in the U.S. Health and Retirement Study. *Epidemiology*. (2020) 31(1): 126 - 133. [[Link](https://journals.lww.com/epidem/Abstract/2020/01000/Development_of_Algorithmic_Dementia_Ascertainment.14.aspx) | [PubMed](https://pubmed.ncbi.nlm.nih.gov/31567393/?from_single_result=Development+of+algorithmic+dementia+ascertainment+for+racial%2Fethnic+disparities+research+in+the+U.S.+Health+and+Retirement+Study)]
+
 ## 2019
 
-* Gianattasio, K., **Ciarleglio, A.**, Power, M.  Algorithmic identification of dementia for use in disparities research in the nationally-representative Health and Retirement Study. *Epidemiology*. (2019) (in press). 
-
-* Kegeles, L., **Ciarleglio, A.**, Leon-Ortiz, P., Reyes-Madrigal, F., Lieberman, J. A.,  Brucato, G., Girgis, R., de la Fuente-Sandoval, C. An imaging-based risk calculator for prediction of conversion to psychosis in clinical high-risk individuals using glutamate 1H MRS. *Schizophrenia Research*.  (2019) (in press). [[Link](https://www.sciencedirect.com/science/article/abs/pii/S092099641930413X) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31522867)]
-
-* Golub, J., **Ciarleglio, A.**, Schupf, N., Brickman, A., Luchsinger, J.  Audiometric age-related hearing loss and cognition in the Hispanic Community Health Study. *Journal of Gerontology: Medical Sciences*. (2019) (in press). [[Link](https://academic.oup.com/biomedgerontology/advance-article-abstract/doi/10.1093/gerona/glz119/5513489?redirectedFrom=fulltext) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31183502)]
+* Gianattasio, K., Prather, C., Glymour, M., **Ciarleglio, A.**, Power, M.  Racial disparities and temporal trends in dementia misdiagnosis risk in the United States. *Alzheimer's \& Dementia: Translational Research \& Clinical Interventions*. (2019) 5: 891 - 898. [[Link](https://www.sciencedirect.com/science/article/pii/S2352873719300940) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31890853)]
 
 * Brown, P., Brennan, N., **Ciarleglio, A.**, Chen, C., Montes Garcia, C., Gomez, S., Roose, S., Rutherford, B., Simonsick, E., Spencer, R., Ferrucci, L. Declining skeletal muscle mitochondrial function associated with increased risk of depression in later life. *The American Journal of Geriatric Psychiatry*. (2019) 27 (9): 963 - 971. [[Link](https://www.ajgponline.org/article/S1064-7481(19)30333-1/fulltext) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31104966)]
 
