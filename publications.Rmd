@@ -15,7 +15,7 @@ output:
 
 * Golub, J., Brickman, A., **Ciarleglio, A.**, Schupf, N., Luchsinger, J. Association of subclinical hearing loss with cognitive performance. *JAMA Otolaryngology – Head \& Neck Surgery*. (2020) 146(1): 57 - 67. [[Link](https://jamanetwork.com/journals/jamaotolaryngology/fullarticle/2755646) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31725853)]
 
-* Brown, P., Brennan, N., **Ciarleglio, A.**, Chen, C.,  Montes Garcia, C., Gomez, S., Roose, S., Rutherford, B., Simonsick, E., Spencer, R., Ferrucci, L. Frailty and its correlates in adults with late life depression.  *The American Journal of Geriatric Psychiatry*. (2020) 28(2): 145 - 154. [[Link](https://www.sciencedirect.com/science/article/abs/pii/S1064748119305305?via%3Dihub) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31734083)]
+* Brown, P., Roose, S., O'Boyle, K., **Ciarleglio, A.**, Mass, B., Igwe, K., Chung, S., Gomez, S.,  Naqvi, M., Brickman, A., Rutherford, B. Frailty and its correlates in adults with late life depression.  *The American Journal of Geriatric Psychiatry*. (2020) 28(2): 145 - 154. [[Link](https://www.sciencedirect.com/science/article/abs/pii/S1064748119305305?via%3Dihub) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31734083)]
 
 * Petkova E., Park, H., **Ciarleglio, A.**, Ogden, R. T., Tarpey, T. Optimizing treatment decision rules through generated effect modifiers: A precision medicine tutorial. *British Journal of Psychiatry Open*. (2020) 6(1) E2. [[Link](https://www.cambridge.org/core/journals/bjpsych-open/article/optimising-treatment-decision-rules-through-generated-effect-modifiers-a-precision-medicine-tutorial/DE085374C40752EA21CC908E9AB180FF) | [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31791433)]
 
